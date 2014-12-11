@@ -1,0 +1,21 @@
+'global':
+  'exception-reporting':
+    'userId': 'b2a5b071-63a0-50d2-f959-4041a52776b1'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': '67d28880181420d39cd07f5f50446fba6ed8a868'
+  'core':
+    'projectHome': '/Users/ylhert/dev'
+    'themes': [
+      'seti-ui'
+      'seti-syntax'
+    ]
+  'editor':
+    'showInvisibles': true
+    'fontSize': 19
+    'invisibles': {}
+  'git-diff':
+    'showIconsInEditorGutter': true
+'.rspec.ruby.source':
+  'editor': {}
